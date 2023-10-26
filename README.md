@@ -1,0 +1,1 @@
+I have done the assignment in both Rust and Haskell, the documentation for each language is found in their respective folders. The general documentation is done in regards to the Rust implemitation.

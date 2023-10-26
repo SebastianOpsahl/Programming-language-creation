@@ -1,0 +1,16 @@
+push "Hello welcome to my program" print
+push "Input a number and I will multiply it by 10" print
+read
+parseInteger
+10 *
+print
+push "Input a number and I will add 10 to it" print
+read
+parseInteger
+10 +
+print
+push "Input a number and I will subtract 10 from it" print
+read
+parseInteger
+10 -
+print

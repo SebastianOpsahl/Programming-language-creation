@@ -1,0 +1,5 @@
+Having come from imperative languages like C and C++ I found Rust easier to start with and understand. When coding and getting errors from the strict compiler, which is a little annoying haha, I really saw the benefits of Rust as inforces strict coding but with the benefit of less runtime errors, so you often get a "aha!" feeling.
+
+But while doing the assignment I couldn't help but recognize the strenghts and easiness that Haskell could provide to the task.
+
+There is a lack of modularization but I wanted to prioritize the implemitation in Haskell as well as Rust. And I dont mind too much that most of it in is one file (expect from the actual initiating parts of the code of course) when all of it belongs to the common struct Stack. But I will definitely look at new modularization before the deadline portfolio.
